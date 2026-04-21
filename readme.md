@@ -73,6 +73,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [Utilixea](https://www.utilixea.com/) - Utilixea is your all-in-one destination for smart, free, and powerful online tools designed to make your digital life simpler, faster, and more productive.
 
 ## Resources
 
